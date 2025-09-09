@@ -12,3 +12,6 @@ test/
 *.npz
 
 *.zip
+
+Miniconda3
+.history
